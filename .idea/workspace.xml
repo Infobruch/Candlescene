@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05dec440-385f-4438-8e34-07564e9b2f4d" name="Changes" comment="- Kerzen noch nicht in richtiger reihenfolge&#10;- kerzen ein/-ausschaltbar mit den den tasten 1/2/3/4">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Holzboden.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kerze.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kerzenszene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Untergrund.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kerze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kerze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Kerzenszene.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kerzenszene.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +55,7 @@
       <workItem from="1669063966830" duration="273000" />
       <workItem from="1669064253486" duration="265000" />
       <workItem from="1669064533218" duration="844000" />
+      <workItem from="1670225234819" duration="4781000" />
     </task>
     <task id="LOCAL-00001" summary="- Kerzen noch nicht in richtiger reihenfolge&#10;- kerzen ein/-ausschaltbar mit den den tasten 1/2/3/4">
       <created>1668720283656</created>

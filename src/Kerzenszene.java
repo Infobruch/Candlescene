@@ -8,16 +8,16 @@ class Kerzenszene{
     Kerzenszene(){
        
         licht = new GLLicht();
-        kamera = new GLKamera(800,600);
+        kamera = new GLEntwicklerkamera(800,600);
         kb = new GLTastatur();
         kamera.setzePosition(0,300,500);    
         
         boolean k1=false,k2=false,k3=false,k4=false;
         
-        Kerze Kerze1 = new Kerze(100,0,0,0);
-        Kerze Kerze2 = new Kerze(0,0,0,0);
-        Kerze Kerze3 = new Kerze(-100,0,0,0);
-        Kerze Kerze4 = new Kerze(200,0,0,0);
+        Kerze Kerze1 = new Kerze(100,50,0,20,100);
+        Kerze Kerze2 = new Kerze(0,50,0,50,10);
+        Kerze Kerze3 = new Kerze(-100,50,0,50,30);
+        Kerze Kerze4 = new Kerze(200,50,0,50,100);
         Untergrund Tisch = new Untergrund();
         
         while(!kb.esc()){
